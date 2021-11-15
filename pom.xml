@@ -72,7 +72,7 @@
 		<h2.version>1.4.188</h2.version>
 		<jackson.version>2.4.1</jackson.version>
 		<querydsl.version>3.6.4</querydsl.version>
-		<cronutils.version>3.1.1</cronutils.version>
+		<cronutils.version>9.1.6</cronutils.version>
 		<swagger.version>2.1.0</swagger.version>
 		<jdbi.version>2.78</jdbi.version>
 		<!-- Propiedad para establecer el target environment -->
