@@ -68,7 +68,7 @@
 		<joda.time.version>2.9.3</joda.time.version>
 		<junrar.version>0.7</junrar.version>
 		<oracle.version>9.4-1201-jdbc41</oracle.version>
-		<postgresql.version>9.4-1201-jdbc41</postgresql.version>
+		<postgresql.version>42.2.25</postgresql.version>
 		<h2.version>1.4.188</h2.version>
 		<jackson.version>2.4.1</jackson.version>
 		<querydsl.version>3.6.4</querydsl.version>
